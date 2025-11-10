@@ -1,0 +1,4 @@
+var name="vishal";
+let age=18;
+const city="cbe";
+console.log(name+" "+age+" "+city);
